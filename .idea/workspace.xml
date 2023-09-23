@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2e45c4-6ec5-4e75-a451-6944d7ab7abe" name="Changes" comment="Código de la OpenClass S2">
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Bateria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/ClaseBateria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Foco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Linterna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Luz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Modelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/objetos/Programa.java" afterDir="false" />
+    <list default="true" id="4f2e45c4-6ec5-4e75-a451-6944d7ab7abe" name="Changes" comment="Código de la OpenClass S3">
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/estructuras/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/estructuras/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/estructuras/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/estructuras/Credito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/estructuras/Programa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Record" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -78,13 +77,26 @@
       <recent name="mx.utel.poo.objetos" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.mx.utel.poo.objetos.Programa">
+  <component name="RunManager" selected="Application.mx.utel.poo.estructuras.Programa">
     <configuration name="Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mx.utel.poo.intro.Programa" />
       <module name="JavaDemo24AA1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="mx.utel.poo.intro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mx.utel.poo.estructuras.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mx.utel.poo.estructuras.Programa" />
+      <module name="JavaDemo24AA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.utel.poo.estructuras.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mx.utel.poo.estructuras.Programa" />
         <item itemvalue="Application.mx.utel.poo.objetos.Programa" />
         <item itemvalue="Application.mx.utel.poo.fundamentos.Programa" />
         <item itemvalue="Application.Programa" />
@@ -141,7 +154,11 @@
       <workItem from="1693926735006" duration="16000" />
       <workItem from="1694220889476" duration="4949000" />
       <workItem from="1694482177561" duration="10000" />
-      <workItem from="1694824759056" duration="4821000" />
+      <workItem from="1694824759056" duration="5031000" />
+      <workItem from="1695145022147" duration="660000" />
+      <workItem from="1695157073903" duration="33000" />
+      <workItem from="1695406945391" duration="345000" />
+      <workItem from="1695430003375" duration="6118000" />
     </task>
     <task id="LOCAL-00001" summary="Código de la OpenClass S2">
       <option name="closed" value="true" />
@@ -151,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694232347924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Código de la OpenClass S3">
+      <option name="closed" value="true" />
+      <created>1694835358986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694835358986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +196,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Código de la OpenClass S2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código de la OpenClass S2" />
+    <MESSAGE value="Código de la OpenClass S3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código de la OpenClass S3" />
   </component>
 </project>
