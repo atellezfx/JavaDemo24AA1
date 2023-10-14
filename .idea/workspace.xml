@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2e45c4-6ec5-4e75-a451-6944d7ab7abe" name="Changes" comment="Código de la OpenClass S5">
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Contenedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Contenido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Maquina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Tren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Vagon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/VagonAutorack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/VagonCerrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/VagonCisterna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/herencia/tipos-vagones.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4f2e45c4-6ec5-4e75-a451-6944d7ab7abe" name="Changes" comment="Código de la OpenClass S6">
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/Granero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/MaestroTostador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/Recolector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable/Granero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable/MaestroTostador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable/Programa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable/Recolector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,9 +26,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -60,67 +58,42 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alejandro/IdeaProjects/JavaDemo24AA1/src/mx/utel/poo/herencia&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.25890738&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Application.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alejandro/IdeaProjects/JavaDemo24AA1/src/mx/utel/poo/hilos/runnable",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.25890738",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="mx.utel.poo.objetos" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/mx/utel/poo/hilos/runnable" />
       <recent name="$PROJECT_DIR$/src/mx/utel/poo/herencia" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Programa">
+  <component name="RunManager" selected="Application.mx.utel.poo.hilos.runnable.Programa">
     <configuration name="ArgumentosVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mx.utel.poo.arreglos.ArgumentosVariables" />
-      <module name="JavaDemo24AA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mx.utel.poo.arreglos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArreglosIrregulares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mx.utel.poo.arreglos.ArreglosIrregulares" />
-      <module name="JavaDemo24AA1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mx.utel.poo.arreglos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArreglosSimples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mx.utel.poo.arreglos.ArreglosSimples" />
       <module name="JavaDemo24AA1" />
       <extension name="coverage">
         <pattern>
@@ -158,13 +131,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mx.utel.poo.hilos.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mx.utel.poo.hilos.Programa" />
+      <module name="JavaDemo24AA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.utel.poo.hilos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mx.utel.poo.hilos.runnable.Programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mx.utel.poo.hilos.runnable.Programa" />
+      <module name="JavaDemo24AA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.utel.poo.hilos.runnable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mx.utel.poo.hilos.runnable.Programa" />
+        <item itemvalue="Application.mx.utel.poo.hilos.Programa" />
         <item itemvalue="Application.Programa" />
         <item itemvalue="Application.SumaArreglo" />
         <item itemvalue="Application.ArgumentosVariables" />
-        <item itemvalue="Application.ArreglosIrregulares" />
-        <item itemvalue="Application.ArreglosSimples" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,13 @@
       <workItem from="1696512931441" duration="1247000" />
       <workItem from="1696562232464" duration="2664000" />
       <workItem from="1696610279736" duration="2153000" />
-      <workItem from="1696641066752" duration="4662000" />
+      <workItem from="1696641066752" duration="4757000" />
+      <workItem from="1696990773489" duration="891000" />
+      <workItem from="1697050064223" duration="38000" />
+      <workItem from="1697230106539" duration="204000" />
+      <workItem from="1697230316642" duration="430000" />
+      <workItem from="1697241566265" duration="28000" />
+      <workItem from="1697246672371" duration="6923000" />
     </task>
     <task id="LOCAL-00001" summary="Código de la OpenClass S2">
       <option name="closed" value="true" />
@@ -237,7 +242,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696046810772</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Código de la OpenClass S6">
+      <option name="closed" value="true" />
+      <created>1696651202246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696651202246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,7 +273,8 @@
     <MESSAGE value="Código de la OpenClass S3" />
     <MESSAGE value="Código de la OpenClass S4" />
     <MESSAGE value="Código de la OpenClass S5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Código de la OpenClass S5" />
+    <MESSAGE value="Código de la OpenClass S6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Código de la OpenClass S6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
